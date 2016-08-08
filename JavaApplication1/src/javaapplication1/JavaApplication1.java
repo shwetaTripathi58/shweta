@@ -16,7 +16,7 @@ public class JavaApplication1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello Git Hub");
+        System.out.println("Hello Hub");
     }
     
 }
